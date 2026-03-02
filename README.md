@@ -40,6 +40,8 @@
 | `GuessTheNumber` | *Python* | A Python console game that features difficulty modes, a score tracker, and a simple login |
 | `minesweeper-pygame-2026` | *Python* | Minesweeper implementation using `Pygame` and `Numpy` |
 | `clicker` | *JavaScript* (React) | The project is a simple Clicker |
+| `todolist-react-2026` | *JavaScript* (React) | To Do List in format web |
+| `scpsearch-react-2026` | *JavaScript* (React) | scp-web that should be search engine for search scp |
 
 
 ---
