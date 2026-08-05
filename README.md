@@ -19,10 +19,9 @@
 - Python (pygame, numpy, ...)
 - JavaScript & React (Try learn Frontend)
 - C#
-- C (I just started learning) 
+- C / C++
 
 ** tools**
-- Unity
 - GitHub
 - Visual Studio and Visual Studio Code
 - Arduino IDE
@@ -36,7 +35,6 @@
 |----------------|-------------|--------------|
 | `BinaryNumberSystem` | *Python* | Utility for converting between decimal and binary systems |
 | `Space_Station_Helper` | *Python* | A program for quick phrases. Stores phrases in JSON |
-| `GUICalculator` | *Python* | An experimental GUI calculator written in DearPyGui with its own input parsing rules |
 | `GuessTheNumber` | *Python* | A Python console game that features difficulty modes, a score tracker, and a simple login |
 | `minesweeper-pygame-2026` | *Python* | Minesweeper implementation using `Pygame` and `Numpy` |
 | `clicker` | *JavaScript* (React) | The project is a simple Clicker |
@@ -47,20 +45,12 @@
 ---
 
 ## Meta-plans (Roadmap):
-- [ ] Continue Learn C / C++ | understand the computer works and work on computer level
-- [ ] Continue learing React JS, HTML, CSS
 - [ ] Learn Backend:
-    
      - What I should to learn?
      - learn SQL
-- [ ] Learn how to create and learning Neural network (machine learning)
 - [ ] How to create game in Unity
 
-## Current Plans:
-- [ ] Learn C
-- [ ] Learn React JS, HTML, CSS
-
-(+) sometimes try to work with arduino
+## Current Plans: ...
 
 
 <!--
