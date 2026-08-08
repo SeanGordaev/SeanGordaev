@@ -1,59 +1,84 @@
-# Hello! I am Sean — self-taught developer / student  
-> *I learn as much as I can — every day a new skill.*
+# Hello! I'm Sean 👋
+
+**Self-taught developer and student**
+
+> *I try to learn something new every day and explore as many areas of technology as I can.*
 
 ---
 
-## 🔎 Quick bio
+## 🔎 About Me
 
-- **Name:** Sean  
-- **Age:** 17 year-old
-- **Role:** self-taught programmer and technology explorer  
-- **Mission:** learn as many fields as possible during life  
-- **Current interests:** Python, Frontend (HTML/CSS/JS/React), Unity, Robotics, AI, Electronics and Math.
+- **Name:** Sean
+- **Age:** 17
+- **Role:** Self-taught programmer and technology explorer
+- **Goal:** Build broad knowledge across programming, technology, engineering, and science
+- **Current interests:** Python, Frontend Development, React, Unity, Robotics, AI, Electronics, and Mathematics
 
 ---
 
 ## 🧰 Skills
 
-** Languages & libs**
-- Python (pygame, numpy, ...)
-- JavaScript & React (Try learn Frontend)
-- C#
-- C / C++
+### Languages & Frameworks
 
-** tools**
-- GitHub
-- Visual Studio and Visual Studio Code
+- **Python** — Pygame, NumPy
+- **JavaScript** — React
+- **C#**
+- **C**
+- **C++**
+- **HTML / CSS**
+
+### Tools
+
+- Git & GitHub
+- Visual Studio
+- Visual Studio Code
 - Arduino IDE
-- YouTube + Google + GPT (only for ideas and study)
+- Unity
+- AI tools for learning, research, and brainstorming
 
 ---
 
+## 📂 Main Projects
 
-## 📂My Main Projects:
-| Project's Name | Main Leang |  Description |
-|----------------|-------------|--------------|
-| `Space_Station_Helper` | *Python* | A program for quick phrases. Stores phrases in JSON |
-| `GuessTheNumber` | *Python* | A Python console game that features difficulty modes, a score tracker, and a simple login |
-| `minesweeper-pygame-2026` | *Python* | Minesweeper implementation using `Pygame` and `Numpy` |
-| `clicker` | *JavaScript* (React) | The project is a simple Clicker |
-| `todolist-react-2026` | *JavaScript* (React) | To Do List in format web |
-| `scpsearch-react-2026` | *JavaScript* (React) | scp-web that should be search engine for search scp |
-
+| Project | Main Technology | Description |
+|---|---|---|
+| [`Space_Station_Helper`](https://github.com/SeanGordaev/Space_Station_Helper) | Python | A utility for quickly accessing predefined phrases stored in JSON |
+| [`GuessTheNumber`](https://github.com/SeanGordaev/GuessTheNumber) | Python | Console game with difficulty modes, score tracking, and a simple login system |
+| [`minesweeper-pygame-2026`](https://github.com/SeanGordaev/minesweeper-pygame-2026) | Python / Pygame | Minesweeper implementation built with Pygame and NumPy |
+| [`clicker`](https://github.com/SeanGordaev/clicker) | JavaScript / React | A simple clicker game built while learning React |
+| [`todolist-react-2026`](https://github.com/SeanGordaev/todolist-react-2026) | JavaScript / React | Web-based to-do list application |
+| [`scpsearch-react-2026`](https://github.com/SeanGordaev/scpsearch-react-2026) | JavaScript / React | Search-oriented SCP web project |
+| [`CrossdeviseChat`](https://github.com/SeanGordaev/CrossdeviseChat) | Python / TCP | Self-hosted LAN chat with a central server, multiple clients, real-time message broadcasting, and a Tkinter GUI |
 
 ---
 
-<!--
-**SeanGordaev/SeanGordaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 What I Like to Learn
 
-Here are some ideas to get you started:
+I am interested in understanding not only how to use technologies, but also how they work internally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some areas I explore include:
+
+- Software development
+- Computer networking
+- Game development
+- Electronics and embedded systems
+- Robotics
+- Artificial intelligence
+- Mathematics
+- Computer systems
+
+---
+
+## 🚀 My Approach
+
+I build projects mainly to learn.
+
+For me, a project is not only about the final result — it is also a way to understand new concepts, experiment with ideas, make mistakes, and improve my technical knowledge.
+
+---
+
+## 📫 GitHub
+
+You can find my projects here:
+
+**[@SeanGordaev](https://github.com/SeanGordaev)**
