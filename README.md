@@ -33,7 +33,6 @@
 ## 📂My Main Projects:
 | Project's Name | Main Leang |  Description |
 |----------------|-------------|--------------|
-| `BinaryNumberSystem` | *Python* | Utility for converting between decimal and binary systems |
 | `Space_Station_Helper` | *Python* | A program for quick phrases. Stores phrases in JSON |
 | `GuessTheNumber` | *Python* | A Python console game that features difficulty modes, a score tracker, and a simple login |
 | `minesweeper-pygame-2026` | *Python* | Minesweeper implementation using `Pygame` and `Numpy` |
@@ -43,15 +42,6 @@
 
 
 ---
-
-## Meta-plans (Roadmap):
-- [ ] Learn Backend:
-     - What I should to learn?
-     - learn SQL
-- [ ] How to create game in Unity
-
-## Current Plans: ...
-
 
 <!--
 **SeanGordaev/SeanGordaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
