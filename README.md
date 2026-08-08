@@ -25,7 +25,7 @@
 - GitHub
 - Visual Studio and Visual Studio Code
 - Arduino IDE
-- YouTube + Google + GPT
+- YouTube + Google + GPT (only for ideas and study)
 
 ---
 
